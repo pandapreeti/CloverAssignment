@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CloverAssignment</string>
+    <string name="please_wait">Please Wait</string>
+
+    <string name="error_in_rx_java">Error in Rx java</string>
+    <string name="species">"Species: "</string>
+    <string name="status">"Status: "</string>
+    <string name="location_name">Location Name -</string>
+    <string name="location_type">Location Type -</string>
+    <string name="dimension">Dimension -</string>
+    <string name="no_of_residents">No of residents -</string>
+    <string name="no_data_available_to_display">No data available to display</string>
+</resources>
