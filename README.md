@@ -1,6 +1,6 @@
 # CloverAssignment
 
-Used MVVM architecture
+Used **MVVM** architecture
 
 This assignment displays a list of 20 Rick and Morty characters in first screen from the api call "https://rickandmortyapi.com/api/character" -
 
